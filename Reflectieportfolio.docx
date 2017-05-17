@@ -1,0 +1,77 @@
+﻿Kritische reflectie
+
+Internationale aspecten
+
+De aangereikte literatuur is allemaal engelstalig. Deze zijn afkomstig van NCBI en Nature. Op de stageplaats is ook een indische collega aanwezig, waar ik uiteraard in het engels mee communiceer. Afgelopen week heb ik ook een engelstalige presentatie over een thesis gevolgd. Deze presentatie ging over het DFNA-gen. In deze thesis werd onderzocht wat de gevolgen van silencing en overexpressie van dit gen tot gevolg hebben. Bij overexpressie zou dit lijden tot hearing-loss, en bij silencing tot onderdrukking van apoptosis zodat kankercellen blijven overleven.
+
+
+Eigen evaluatie (0-10)
+
+1. Past relevante programmeertechnieken toe om (biologische) gegevens op een geautomatiseerde manier te verwerken
+	8
+De programmeertechnieken die ik toepas worden meteen gebruikt om via een pipeline data de input te verwerken tot output.
+
+2. Programmeert op een zo efficiënt mogelijke manier
+	7
+Ik probeer om op een zo efficiënt mogelijke manier te programmeren. Dit uit niet altijd meteen in de meeste efficiënte of simpele wijze.
+
+3. Past kritisch en efficiënt de structuur van een eigen of reeds bestaande programmastructuur aan
+	7
+Als de data van een bestaande structuur beschikbaar is probeer ik op deze data verder te werken, weliswaar met een kritische kijk.
+
+4. Past kritisch en efficiënt de structuur en inhoud van een gegeven (biologische) datafile aan
+	7
+5. Selecteert en deponeert autonoom biologische data uit of in een databank op een al dan niet geautomatiseerde manier 
+	8
+6. Ontwikkelt nieuwe databankstructuren voor het beheer van gegeven of verkregen biologische data
+	8
+Met eigen mappenstructuur wordt de data bijgehouden voor verdere verwerking
+7. Ontwikkelt een webinterface om (biologisch complexe) data op een gebruiksvriendelijke en efficiënte manier te kunnen verwerken
+	NVT
+8. Neemt initiatief om nieuwe toepassingsmogelijkheden binnen de bio-informatica op te sporen en te gebruiken
+	7
+9. Breidt zijn huidige kennis van datastructuren en programmeervaardigheden uit en stuurt autonoom bij, zodat dit bijdraagt tot de efficiënte bevraging en verwerking van data voor een gegeven biologisch probleem
+	8
+
+
+10. Houdt rekening met de wet- en regelgeving en (internationaal) geldende normen en waarden en past die toe ter bescherming van private gegevens
+	10
+11. Evalueert kritisch de analysemogelijkheden voor gegeven of al dan niet op een geautomatiseerde manier verkregen (biologische) data
+	8
+12. Kiest autonoom de gepaste software voor de verwerking van gegeven of al dan niet op een geautomatiseerde manier verkregen (biologische) data
+	7
+Bij aanvang van de stage werden me tools meegedeeld die ik mocht gebruiken om een resultaat te verwerven.
+13. Combineert meerdere disciplines, maar houdt hierbij vast aan het eigen vakgebied 
+	7
+14. Analyseert, synthetiseert en harmoniseert gevolgtrekkingen vanuit verschillende disciplines tot een coherent en gecoördineerd niveau
+	8
+Als ik output krijg van een onderdeel van mijn script kijk ik kritische naar de output. En altijd naar hoe ik de output kan verbeteren
+
+15. Rapporteert resultaten en informatie volgens de in het werkveld geldende standaard
+	7 
+Ik probeer om zo goed mogelijk de resultaten te rapporteren. Zowel binnen als buiten het script
+
+16. Stelt zich participerend op ten opzichte van de organisatie en het team
+	7
+Zo goed mogelijk mee werken met het team probeer ik steeds.
+
+
+Formatieve evaluatie
+
+De stage verloopt zoals ik had verwacht. De focus op mijn stage raken vooral vorige lespakketen scripting, highthrougput analyse en biostatistiek met R. Ik ben er vanop de hoogte dat niet alle vakken kunnen worden toegepast in 1 stage/project. Toch probeer ik om de opgedane kennis zo goed mogelijk te verwerken in dit project. 
+
+Ik ga zo goed mogelijk om met de feedback die ik krijg van het team. Dit is in mijn ogen constructieve feedback die ik naar later toe zeker kan gebruiken. Ook zoals de gebruikte technieken om bijvoorbeeld te scripten probeer ik steeds te implementeren en rekening mee te houden. De gemaakte afspraken kom ik steeds na.
+
+Persoonlijk Ontwikkelings Plan (POP)
+
+Ontwikkelingsdoel: De focus in dit project ligt hoofdzakelijk op basis python, R, bash en linux omgeving. De opgedane technieken of commentaren die ik verwerf op deze stage probeer ik dan ook meteen te implementeren. 
+
+Ontwikkelingsactiviteit: De concrete activiteit die ik ga ondernemen is het verwerven van zoveel mogelijk kennis en technieken waar de focus op ligt in deze stage.
+
+Gewenste resultaten: Het gewenste resultaat is om de data om te vormen tot output. Deze output komt onder de vorm van een fylogenetische boom voor.
+
+Planning: Momenteel zit ik nog goed op schema, ga dit verder zetten.
+
+Benodigde ondersteuning en faciliteiten: ik kan steeds hulp vragen aan de mensen rondom mij. Deze mensen zijn steeds beschikbaar en zijn paraat om constructieve antwoorden te geven. De data ligt steeds voorhanden en indien niet kan ik dit steeds vragen aan de collega’s rondom mij.
+
+
